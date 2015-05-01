@@ -1,0 +1,4 @@
+tasks/acceptability/data
+.*
+!.gitignore
+*.pyc
